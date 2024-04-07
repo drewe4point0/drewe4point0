@@ -13,7 +13,7 @@
 
 - 💬 Ask me about how **I can help your business grow**
 
-- 📫 How to reach me **drewe.maciver@gmail.com**
+- 📫 How to reach me: [drewe.maciver@gmail.com](mailto:drewe.maciver@gmail.com?subject=GitHub%20Homepage:%20Hello%20Drewe!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
