@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drewe4point0&label=Profile%20views&color=0e75b6&style=flat" alt="drewemaicver" /> </p>
 
-- 🛠️ I’m currently working on **a Market Basket Analysis and Business Dashboards for retailers**
+- 🛠️ I’m currently working on a **Market Basket Analysis and Business Dashboards for retailers**
 
-- 🌱 I’m currently learning **how to leverage GenAI to offer freelance services and enhance personal workflows; DevOps and Data Migration**
+- 🌱 I’m currently learning how to **leverage GenAI to offer freelance services and enhance personal workflows; DevOps and Data Migration**
 
 - 👨🏽‍🤝‍👨🏾 I’m looking to collaborate on **anything with a practical real-world business benefit**
 
