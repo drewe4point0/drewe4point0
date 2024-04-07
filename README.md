@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drewe MacIver</h1>
-<h3 align="center">A data nerd and professional-calibre speechwriter and presenter.  Former entrepreneur and marketer turned Data Analyst, Jr. Data Scientist from Toronto, based in Victoria, BC, Canada</h3>
+<h3 align="center">Data Nerd and Professional-Calibre Speechwriter and Presenter.  Former Entrepreneur and Marketer turned Data Analyst, Jr. Data Scientist from Toronto, based in Victoria, BC, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drewe4point0&label=Profile%20views&color=0e75b6&style=flat" alt="drewemaicver" /> </p>
 
