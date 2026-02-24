@@ -11,7 +11,7 @@ My approach: **80% planning, 20% executing.** PRD-driven development with AI ass
 
 ### 🔨 Currently Building
 
-- **🔍 RFP Procurement Intelligence System** — Automated Canadian government RFP scraping (BC Bid + MERX) with Playwright, Supabase, and a live ops dashboard. Built for [Kambo Energy Group](https://kambo.com) to aggregate procurement opportunities across provinces. Includes data quality monitoring, dedup pipelines, and source registry management.
+- **🔍 RFP Procurement Intelligence System** — Automated Canadian government RFP scraping (BC Bid + MERX) with Playwright, Supabase, and a live ops dashboard. Built for an energy consulting firm to aggregate procurement opportunities across provinces. Includes data quality monitoring, dedup pipelines, and source registry management.
 
 - **🤖 Julia — AI Co-Pilot & Life OS** — A persistent AI assistant built on [OpenClaw](https://github.com/openclaw/openclaw) that manages projects, tracks habits, monitors workflows, and operates autonomously via cron jobs and heartbeat systems. Julia has her own memory, personality, voice (ElevenLabs), and runs 24/7 on a Mac Mini. She's my accountability partner, project manager, and vibe coding collaborator.
 
