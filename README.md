@@ -1,74 +1,75 @@
-<h1 align="center">Hi 👋, I'm Drewe MacIver</h1>
-<h3 align="center">AI Builder & Implementer | Victoria, BC, Canada</h3>
+<h1 align="center">Hi, I'm Drewe MacIver 👋</h1>
+<h3 align="center">AI builder · Founder of <a href="https://integrateai.today">Ikigai AI Integration</a> · Victoria, BC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drewe4point0&label=Profile%20views&color=0e75b6&style=flat" alt="drewe4point0" /> </p>
+<p align="center">I build custom apps, automations and websites that fit how your team already works.<br>Then I teach your people to build their own.</p>
 
-I build AI-powered tools, automations, and data pipelines that solve real business problems. Data Science diploma holder turned AI implementer — I design, architect, and ship with AI.
-
-My approach: **80% planning, 20% executing.** PRD-driven development with AI assistants. I don't write code line-by-line — I orchestrate AI to build production-grade tools, then refine with judgment, taste, and engineering principles.
+<p align="center">
+  <a href="https://integrateai.today/services"><img alt="Book a scoping session" src="https://img.shields.io/badge/Book_a_scoping_session-8A5C61?style=for-the-badge"></a>
+  <a href="https://integrateai.today"><img alt="integrateai.today" src="https://img.shields.io/badge/integrateai.today-1D2125?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/drewe-maciver/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-### 🔨 Currently Building
+### 🧰 What I build for teams
 
-- **🔍 RFP Procurement Intelligence System** — Automated Canadian government RFP scraping (BC Bid + MERX) with Playwright, Supabase, and a live ops dashboard. Built for an energy consulting firm to aggregate procurement opportunities across provinces. Includes data quality monitoring, dedup pipelines, and source registry management.
+Since February 2026, I've worked inside a Canadian energy-efficiency company as their AI and app builder. I replace paid software with custom apps the whole team uses, move years of data across, and connect the systems so nobody types the same thing twice.
 
-- **🤖 Julia — AI Co-Pilot & Life OS** — A persistent AI assistant built on [OpenClaw](https://github.com/openclaw/openclaw) that manages projects, tracks habits, monitors workflows, and operates autonomously via cron jobs and heartbeat systems. Julia has her own memory, personality, voice (ElevenLabs), and runs 24/7 on a Mac Mini. She's my accountability partner, project manager, and vibe coding collaborator.
+| Offer | What you get | Price (CAD) |
+|---|---|---|
+| **Custom apps & automations** | Retire the spreadsheet everyone works around. Put the boring, repeated jobs on autopilot. | Fixed quote after scoping |
+| **AI builder coaching** | Your staff know which tool would help. I teach them to build it themselves, safely. | $250/hour |
+| **Part-time AI builder** | A monthly block of hours. I build your next tool, keep your tools healthy, and help your staff actually use them. | $250/hour, with a monthly cap you set |
+| **Website rebuilds** | Your outdated site, rebuilt in 6 weeks or less. Nothing lost, and every lead lands where you'll see it. | From $7,000 |
 
-- **🎙️ Podcast AI Summarizer** — End-to-end podcast intelligence pipeline: transcription → AI summarization → actionable insight extraction using Gemini 2.5 Flash. Built multiple iterations from transcript cleaning experiments through to a full web app.
+Every project starts with a **$500 scoping session**: you get a written plan and a firm quote, and the $500 comes off your project if you go ahead. Full pricing: [integrateai.today/services](https://integrateai.today/services)
 
-- **💡 Snipd Insights — Podcast-to-Action Pipeline** — Pulls podcast highlights from Notion (329+ episodes), runs AI analysis to generate insights, Julia's take, 80/20 ratings, and concrete action items per snip. Live web app with approval workflow, talking points, and interesting facts archive.
+---
 
-- **📊 Command Center Dashboard** — Personal life management dashboard with habit tracking, sub-goals, weekly navigation, 52-week progress tracker, and 6 life area tiles. Supabase real-time sync for cross-device state.
+### 📈 Proof from real client work
 
-- **🛠️ OpenClaw Skills & Tooling** — Building custom skills and slash commands for the OpenClaw AI agent framework. Cursor workspace templates, coding agent orchestration, and workflow diagram hubs for visualizing system architecture.
+- **39,000+ public tenders** collected for a sales team. Scrapers pull BC Bid and MERX into Supabase, with a live dashboard and automatic data checks.
+- **2 paid tools replaced** (time tracking and program reporting). Every full-time employee now logs their time in one of the apps I built.
+- **1,933 events rechecked** after moving years of data out of an old system. Every total matched.
+- **Systems connected:** QuickBooks Online, Pipedrive, Knowify, Resend email and Microsoft sign-in.
+- **Staff coaching:** I co-run a biweekly builder skill-share where people with no coding background build their own internal apps.
 
-- **😂 Meme Creator** — AI-powered meme generation tool with image upload and text overlay.
+---
+
+### 🧭 How I work
+
+I'm a self-taught AI builder. I don't write code line by line. I direct AI tools like Claude Code, Codex and Base44, and I own the plan, the data and the checks.
+
+- **Plan first.** A written spec and phased prompts before anything gets built.
+- **Pilot before bulk.** No data change runs on everything until a small test passes.
+- **Verified, not assumed.** Every data move ends with totals checked against the source.
+- **You own it.** Your accounts, your data, and a plain-language recap of what changed.
+
+---
+
+### 🔬 In the lab
+
+What I build for myself, so I can build it better for clients.
+
+- **AI agent team** on [OpenClaw](https://github.com/openclaw/openclaw): a self-hosted crew of agents on a Mac Mini, run from Telegram, with memory, scheduled jobs and voice calls ([call-julia](https://github.com/drewe4point0/call-julia)). It built the first version of the tender scraper above.
+- **Meeting-to-action pipeline** (in progress): meeting recordings become action items and searchable notes. Fathom → Supabase → RAG.
+- **Podcast-to-insight pipeline:** transcripts, summaries and action items from podcast episodes ([podcast-summary-app](https://github.com/drewe4point0/podcast-summary-app)).
+- **AI build kit:** the [workspace template](https://github.com/drewe4point0/cursor-workspace-template), CLAUDE.md files and Claude skills I start every project with.
 
 ---
 
 ### 🎓 Background
 
-**Data Science Diploma** — Python, SQL, machine learning, statistical analysis, Tableau, data visualization. Capstone project: [Quantifying Good Speeches](https://github.com/drewe4point0/Capstone-Quantifying-Good-Speeches-) — NLP analysis exploring what makes TED talks successful.
+Data Science diploma: Python, SQL, machine learning and Tableau. Capstone: [Quantifying Good Speeches](https://github.com/drewe4point0/Capstone-Quantifying-Good-Speeches-), an NLP look at what makes TED talks land.
 
-Notable projects from the program:
-- [Tableau Dashboards & Visualizations](https://github.com/drewe4point0/Tableau_Dashboards_and_Visualizations) — Business intelligence dashboards
-- [Python DS Libraries — West Nile Virus Analysis](https://github.com/drewe4point0/Python-DS-Libraries---Mosquitos-and-West-Nile-Virus-in-Chicago) — Data science workflow with pandas, scikit-learn, seaborn
-- [MySQL Air Traffic Analysis](https://github.com/drewe4point0/MySQL-with-an-Air-Traffic-Dataset) — SQL fluency showcase
+### 🛠️ Stack
 
----
-
-### 🧠 How I Work
-
-- **Vibe Coding:** I design and architect with AI — Cursor, Claude Code, Lovable, Replit
-- **Planning-first:** Master plans, implementation plans, design guidelines, user journeys, task breakdowns
-- **Tools:** Supabase, Vercel, Playwright, Node.js, Python, PostgreSQL, Docker, Notion API, ElevenLabs
-- **Philosophy:** Optimize for judgment, clarity, and taste — not raw code output
+**Build with AI:** Claude Code · Codex · Base44 · Cursor · Lovable<br>
+**Data and hosting:** Supabase (PostgreSQL) · Vercel · GitHub · Python · Node.js · Playwright<br>
+**Connected:** QuickBooks Online · Pipedrive · Knowify · Resend · Microsoft Entra · Notion · Fathom · ElevenLabs
 
 ---
 
-### 🤝 Open To
+### 🤝 Work with me
 
-AI consulting, freelance tool-building, automation projects, and collaborations with practical real-world business impact.
-
-### 📫 Reach Me
-
-[drewe@integrateai.today](mailto:drewe@integrateai.today?subject=GitHub:%20Hello%20Drewe!)
-
-<p align="left">
-<a href="https://www.linkedin.com/in/drewe-maciver/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drewemaciver" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
-<a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> </a>
-<a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" alt="tableau" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-</p>
+I work with small and growing teams across BC, remotely or in person on Vancouver Island. Tell me what's slowing your team down: **[book a scoping session](https://integrateai.today/services)** or email **[drewe@integrateai.today](mailto:drewe@integrateai.today?subject=From%20your%20GitHub%20profile)**.
