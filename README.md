@@ -15,14 +15,16 @@
 
 Since February 2026, I've worked inside a Canadian energy-efficiency company as their AI and app builder. I replace paid software with custom apps the whole team uses, move years of data across, and connect the systems so nobody types the same thing twice.
 
-| Offer | What you get | Price (CAD) |
-|---|---|---|
-| **Custom apps & automations** | Retire the spreadsheet everyone works around. Put the boring, repeated jobs on autopilot. | Fixed quote after scoping |
-| **AI builder coaching** | Your staff know which tool would help. I teach them to build it themselves, safely. | $250/hour |
-| **Part-time AI builder** | A monthly block of hours. I build your next tool, keep your tools healthy, and help your staff actually use them. | $250/hour, with a monthly cap you set |
-| **Website rebuilds** | Your outdated site, rebuilt in 6 weeks or less. Nothing lost, and every lead lands where you'll see it. | From $7,000 |
+- **Custom apps & automations** · *fixed quote after scoping*<br>
+  Retire the spreadsheet everyone works around. Put the boring, repeated jobs on autopilot.
+- **AI builder coaching** · *$250/hour*<br>
+  Your staff know which tool would help. I teach them to build it themselves, safely.
+- **Part-time AI builder** · *$250/hour, in a monthly block with a cap you set*<br>
+  I build your next tool, keep your tools healthy, and help your staff actually use them.
+- **Website rebuilds** · *from $7,000*<br>
+  Your outdated site, rebuilt in 6 weeks or less. Nothing lost, and every lead lands where you'll see it.
 
-Every project starts with a **$500 scoping session**: you get a written plan and a firm quote, and the $500 comes off your project if you go ahead. Full pricing: [integrateai.today/services](https://integrateai.today/services)
+Every project starts with a **$500 scoping session**. You get a written plan and a firm quote, and the $500 comes off your project if you go ahead. Prices in Canadian dollars, plus GST. Full details: [integrateai.today/services](https://integrateai.today/services)
 
 ---
 
